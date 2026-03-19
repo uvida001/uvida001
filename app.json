@@ -1,0 +1,7 @@
+{
+  "name": "edu",
+  "description": "?",
+  "repository": "https://github.com/AbyssServices/Abyss-Web",
+  "keywords": ["school", "math"],
+  "image": "heroku/nodejs"
+}
